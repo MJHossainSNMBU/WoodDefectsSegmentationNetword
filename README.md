@@ -15,15 +15,5 @@ Wood Defect Segmentation Network (WDSN) is a deep learning-based solution for de
   - Training: **4,365 images** (80%)
   - Validation: **547 images** (10%)
   - Testing: **547 images** (10%)
-- Images are resized to **512 × 512 pixels**.
 
----
 
-## 🛠 Installation
-
-Clone the repository and install dependencies:
-
-```bash
-git clone https://github.com/MJHossainSNMBU/WoodDefectsSegmentationNetword.git
-cd WoodDefectsSegmentationNetword
-pip install -r requirements.txt
