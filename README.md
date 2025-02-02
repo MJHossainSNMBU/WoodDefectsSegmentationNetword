@@ -4,8 +4,6 @@
 
 Wood Defect Segmentation Network (WDSN) is a deep learning-based solution for detecting and segmenting defects in wood surfaces. It leverages a **modified UNet** architecture with a **ResNet50** backbone and a **multi-scale decoder structure** to improve segmentation accuracy. This project compares **UNet, ResUNet, Attention UNet, and WDSN** to determine the most effective model for wood defect detection.
 
-🔗 **Conference Paper:** [ICECET 2025](https://github.com/MJHossainSNMBU/WoodDefectsSegmentationNetword)
-
 ---
 
 ## 📂 Dataset
